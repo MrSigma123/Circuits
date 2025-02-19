@@ -1,4 +1,5 @@
 Simple circuits projects database using touch sensor circuits
 
 Beginning with basics:
-0. Intoduction
+0. Introduction (elements)
+1. First circuit
